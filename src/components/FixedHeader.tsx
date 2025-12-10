@@ -33,7 +33,7 @@ export function FixedHeader({ onNavigate }: { onNavigate: (link: string) => void
             <div className="max-w-[1376px] w-full mx-auto px-[15px] h-full">
                 <div className="flex justify-between items-center h-full">
                     <div className="flex gap-4 lg:gap-10 items-center">
-                        <a href="/" className="max-w-[108px] max-h-[49px] shrink-0">
+                        <a href="/onus/" className="max-w-[108px] max-h-[49px] shrink-0">
                             <img src={LogoSVG} alt="logo" />
                         </a>
 
