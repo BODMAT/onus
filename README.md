@@ -1,0 +1,1 @@
+# Stack: React, TypeScript, TailwindCSS, Framer Motion, react-i18next

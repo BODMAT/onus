@@ -1,0 +1,204 @@
+{
+    "hero": {
+        "title": "Open Nation for Universal Success",
+        "subtitle": "Trade Bitcoin, Ethereum, USDT, XRP, ONUS, and 300+ coins easily with Vietnamese Dong on ONUS.",
+        "trusted_prefix": "Trusted by",
+        "trusted_suffix": "users from 20 countries",
+        "received": "You received",
+        "from": "from",
+        "staking_daily": "Staking Daily",
+        "now": "now"
+    },
+    "menu": {
+        "statistic": "Statistic",
+        "asset": "Asset",
+        "features": "Features",
+        "benefits": "Benefits",
+        "faq": "FAQ"
+    },
+    "statistic": {
+        "popular_crypto": "popular cryptocurrencies and stocks",
+        "join_telegram": "join the Telegram channel",
+        "join_x": "join channel X",
+        "reviews": "reviews on the App Store & Google Play",
+        "countries": "countries licensed to operate: Czech Republic, Poland, Lithuania, El Salvador, Dubai"
+    },
+    "asset_section": {
+        "title_part1": "Most owned",
+        "title_part2": "assets",
+        "btn_popular": "Popular",
+        "btn_gainers": "Top gainers",
+        "btn_volumes": "Highest volumes"
+    },
+    "features": {
+        "header_title": "Key Features",
+        "header_desc": "A comprehensive app that helps you buy, sell, and manage your Crypto portfolio.",
+        "easy_label": "EASY TO USE.",
+        "easy_title": "Buy Crypto directly.",
+        "easy_p1_bold": "Only take few minutes",
+        "easy_p1_text": " to buy Bitcoin, USDT, and more than 600 digital assets.",
+        "easy_p2_bold": "No intermediaries.",
+        "easy_p2_text": " Direct payment via popular bank accounts or e-wallets.",
+        "flexible_label": "FLEXIBLE",
+        "flexible_title": "Savings & Farming",
+        "flexible_p1_bold": "Demand savings with the interest of 10%/year",
+        "flexible_p1_text": " when depositing VNDC, USDT, Bitcoin...in ONUS, and can be withdrawn at anytime.",
+        "flexible_p2_bold": "Term savings with high interests",
+        "flexible_p2_text": " when providing liquidity to Farming pools.",
+        "support_label": "SUPPORT",
+        "support_title": "Support from experts",
+        "support_p1_text": "Market analysis, technical analysis, advice, or recommendations from Masters.",
+        "pro_label": "ONUS PRO",
+        "pro_title": "Futures Trading",
+        "pro_p1_bold": "Lowest fee",
+        "pro_p1_text": " of 0,01% - 0,04%. Slippage <0,001%",
+        "pro_p2_bold": "200+ trading pairs.",
+        "pro_p2_text": " Max leverage of 125x. Abundant liquidity."
+    },
+    "benefits": {
+        "header_title": "Safety and Security",
+        "header_desc": "Ensuring the absolute safety of assets and user information is the most important thing at ONUS.",
+        "safety_title": "Safety",
+        "safety_desc": "CyStack's cybersecurity solution",
+        "testing_title": "Testing",
+        "testing_desc": "Smart Contract audited by Certik",
+        "assurance_title": "Assurance",
+        "assurance_desc": "ONUS asset protection fund",
+        "bug_bounty_title": "Bug bounty",
+        "bug_bounty_desc": "Launching Bug bounty at WhiteHub",
+        "flexibility_title": "Flexibility",
+        "flexibility_desc": "Combining cold wallet, hot wallet, and Custodial at Binance, Nexo",
+        "security_title": "Security",
+        "security_desc": "Smart OTP, Withdraw Confirmation, Biometric Identification, Trusted Device, Anti DDOS (Cloudflare)"
+    },
+    "faq": {
+        "header_title": "Frequently Asked Questions",
+        "q1": "What is a cryptocurrency exchange?",
+        "a1": "A cryptocurrency exchange is an online trading platform that allows users to buy, sell, and exchange various cryptocurrencies such as Bitcoin, ETH, Solana, USDT, and many others.",
+        "q2": "How many types of cryptocurrency exchanges are there?",
+        "a2": "There are two popular types of cryptocurrency exchanges:\n\nCentralized Exchange (CEX): Acts as an intermediary, connecting buyers and sellers. CEXs typically have high liquidity, user-friendly interfaces, and are often chosen by beginners. ONUS is one of the reputable CEXs in Vietnam.\n\nDecentralized Exchange (DEX): Trades occur directly between users without intermediaries. DEXs offer higher security but have more complex interfaces and lower liquidity compared to CEXs.",
+        "q3": "Is the ONUS cryptocurrency trading app reputable?",
+        "a3": "ONUS is one of the reputable cryptocurrency trading apps in Vietnam, with nearly 7 million trusted users and a 4.7-star rating on the App Store and Google Play. It is licensed to operate in five countries and has high liquidity. Combined with advanced security technologies from CyStack, WhiteHub, Nexo, etc., it ensures absolute safety with convenient two-layer security.",
+        "q4": "Is the ONUS cryptocurrency trading app suitable for beginners?",
+        "a4": "The ONUS cryptocurrency trading app is suitable for all users, especially beginners, with advantages such as: a simple interface, diverse automatic investment support, easy deposits and withdrawals in VND via bank accounts/credit cards; reputable and safe with a 24/7 support community; earning overnight interest of up to 10%; buying and selling Bitcoin and over 600 other cryptocurrencies; and a bonus of 270,000 VND for new users to start investing. Download the ONUS app right here.",
+        "q5": "How to register an account on the ONUS cryptocurrency trading app?",
+        "a5": "To register an account on the ONUS cryptocurrency trading app, you need to follow these three steps:\n\nDownload the ONUS app from the App Store or Google Play, register an account using your phone number/email.\n\nComplete basic verification to unlock features.\n\nComplete advanced verification by purchasing VNDC (minimum 50,000 VND) or depositing 10 USDT to become a \"Trusted Customer\" and access all features.\n\nSee more detailed instructions here.",
+        "q6": "What are the transaction fees on the ONUS cryptocurrency trading app?",
+        "a6": "The spot trading fee is only 0.1% for all assets, including Bitcoin (BTC), ETH, USDT, and over 600 other cryptocurrencies, while the lowest future fees in the market are 0.02% for Maker and 0.04% for Taker.",
+        "q7": "Which cryptocurrencies does the ONUS app support for trading?",
+        "a7": "ONUS supports trading Bitcoin and over 600 types of Altcoins across various sectors such as Top 100 coins, Stablecoins, DeFi, Web3, NFTs, Blockchain, BRC20, CEX, Metaverse, POW, POS, AI coins, etc.",
+        "q8": "Is the customer support of the ONUS crypto app good?",
+        "a8": "ONUS provides multi-channel customer support with an enthusiastic community: Website, Facebook Fanpage, Facebook Group, Telegram, Twitter, YouTube, and Support Center: https://support.goonus.io."
+    },
+    "footer": {
+        "tagline": "Invest in digital assets together",
+        "copyright": "© 2023 ONUS Finance UAB. Powered by Vemanti Group.",
+        "links": {
+            "aml": "AML Policy",
+            "terms": "Terms of Service",
+            "privacy": "Privacy Policy"
+        },
+        "col1": {
+            "title": "Bitcoin",
+            "items": [
+                "Market",
+                "Buying guide",
+                "Research",
+                "Price prediction",
+                "Bitcoin Halving",
+                "Bitcoin ETF"
+            ]
+        },
+        "col2": {
+            "title": "Ethereum",
+            "items": [
+                "Market",
+                "Purchase guide",
+                "Research",
+                "Price forecast"
+            ]
+        },
+        "col3": {
+            "title": "Gold price today",
+            "items": [
+                "PNJ",
+                "DOJI",
+                "BTMC",
+                "SJC",
+                "Phu Quy",
+                "Global gold price"
+            ]
+        },
+        "col4": {
+            "title": "Today's exchange rate",
+            "items": [
+                "USD",
+                "EUR",
+                "GBP",
+                "JPY",
+                "AUD"
+            ]
+        },
+        "col5": {
+            "title": "Bank interest rates",
+            "items": [
+                "Techcombank",
+                "Vietcombank",
+                "BIDV",
+                "VIB",
+                "TPBank"
+            ]
+        },
+        "col6": {
+            "title": "About Us",
+            "items": [
+                "ONUS Coin",
+                "ONUS Branding",
+                "ONUS Whitepaper",
+                "ONUS Protection Fund",
+                "ONUS Resources",
+                "ONUS Launcher",
+                "ONUS Fee",
+                "ONUS License",
+                "ONUS Listing",
+                "ONUS Affiliate"
+            ]
+        },
+        "col7": {
+            "title": "Securities",
+            "items": [
+                "HPG",
+                "NVL",
+                "HSG",
+                "FPT",
+                "ACB",
+                "VCB"
+            ]
+        },
+        "col8": {
+            "title": "Products",
+            "items": [
+                "Giao dịch Spot",
+                "Mua Crypto",
+                "Futures trading",
+                "Bank loan interest calculator",
+                "Bank savings interest calculator",
+                "Compound interest calculator",
+                "Investment course",
+                "Make money online"
+            ]
+        },
+        "col9": {
+            "title": "Support",
+            "items": [
+                "Account",
+                "Deposit/withdrawal guide",
+                "Investment",
+                "Staking & Farming",
+                "ONUS policies",
+                "Other information",
+                "FAQs"
+            ]
+        }
+    }
+}
